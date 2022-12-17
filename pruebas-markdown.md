@@ -3,6 +3,19 @@
 # uah2223-spontsanchez
 
 # Apuntes del MPDV UAH 2223
+## Encabezamiento de segundo nivel
+
+Esto es un comentario y no se va a ver:
+<!--
+     __        __                      _     _      _
+     \ \      / /__    __ _ _ __ ___  | |__ (_)_ __(_)_ __   __ _
+      \ \ /\ / / _ \  / _` | '__/ _ \ | '_ \| | '__| | '_ \ / _` |
+       \ V  V /  __/ | (_| | | |  __/ | | | | | |  | | | | | (_| |
+        \_/\_/ \___|  \__,_|_|  \___| |_| |_|_|_|  |_|_| |_|\__, |
+                                                            |___/
+    Ever thought about joining us?
+    https://workforus.theguardian.com/careers/product-engineering/
+     --->
 
 *Lorem ipsum dolor sit amet*, **consectetur adipiscing elit, sed do eiusmod tempor** incididunt ut labore et dolore magna aliqua. Sit amet facilisis magna etiam tempor orci. Leo vel orci porta non pulvinar neque. ***Habitant morbi tristique senectus et***. 
 - Ultricies mi eget mauris pharetra. 
