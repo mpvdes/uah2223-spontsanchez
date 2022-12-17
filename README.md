@@ -1,6 +1,6 @@
 # uah2223-spontsanchez
 
-Este es el repositorio de trabajo inicial de [Máster de Formación Permanente en Periodismo y Visualización de Datos de la Universidad de Alcalá](https://mpvd.es)
+Este es el repositorio de trabajo inicial de [Máster de Formación Permanente en Periodismo y Visualización de Datos de la Universidad de Alcalá](https://www.mpvd.es)
 
 ## Documentos
 
