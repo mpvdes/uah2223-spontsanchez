@@ -38,4 +38,12 @@ Changes not staged for commit:
 
 4. Volvemos al terminal y usamos el comando *git add <nombre del documento>*
 
-5. 
+5. Usamos el comando *git commit -m "<mensaje>"*. Dejamos un mensaje que describa los cambios que hemos hecho.
+
+6. Usamos el comando *git push*. Nos aparecerá el siguiente mensaje:
+	- Username for 'https://github.com': (Lo rellenamos con el nombre de usuario de GitHub y pulsamos la tecla Intro. No se verá en pantalla lo que estamos escribiendo.)
+
+A continuación aparecerá el siguiente mensaje:
+	- Password for 'https://spontsanchez@github.com': (Pegamos el token que hemos copiado anteriorente y pulsamos la tecla Intro. Tampoco se verá en pantalla lo que hemos pegado)
+
+7. Cuando hayamos seguido estos pasos, vamos a nuestro repositorio de GitHub y comprobamos que el archivo se ha actualizado correctamente.
