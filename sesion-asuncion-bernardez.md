@@ -1,15 +1,15 @@
-#Sesión con Asunción Bernárdez
+# Sesión con Asunción Bernárdez
 
 Asunción Bernárdez es catedrática de periodismo en la Universidad Complutense de Madrid, especializada en cuestiones de género.
 
 
-#Inicio de la charla
+# Inicio de la charla
 
 En el análisis del discurso, hasta ahora se habían analizado porciones muy pequeñas de texto. Ahora, gracias a la ciéncia de datos, podemos analizar una cantidad ingente de datos y abarcar mucho más.
 
 Los medios de comunicación construyen identidades a través de textos o imágenes que reproducen estereotipos.
 
-#Cómo los medios de comunicación conforman la realidad y el concepto de género
+# Cómo los medios de comunicación conforman la realidad y el concepto de género
 
 Los medios construyen nuestra realidad. Nuestra idea de mundo está completamente construída por los medios. El periodismo se dedica a explicar recortes de la realidad, algunas partes.
 
@@ -19,7 +19,7 @@ Los medios construyen nuestra realidad. Nuestra idea de mundo está completament
 
 - La sociedad se ha construído en base a diferencias entre géneros que han generado desigualdad.
 
-#Redes sociales, digitalización y estudios de género
+# Redes sociales, digitalización y estudios de género
 
 Hoy en día tenemos muchos datos, que nos proporcionan un mapa de la realidad. Ahora no tenemos una teoría para unir los análisis de datos con análisis cualitativos.
 
