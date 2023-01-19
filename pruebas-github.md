@@ -31,6 +31,20 @@ Para crear un perfil en GitHub hay que seguir los siguientes pasos:
 
 5. Ya hemos creado un perfil. Si accedemos a la página "https://github.com/<tu nombre de usuario>", podremos personalizar nuestro perfil.
 
+## ¿Cómo creo un repositorio de GitHub?
+
+1. Acceder, con mi usuario, a la [página principal de GitHub](https://www.github.com)
+
+2. En la esquina superior derecha, pinchar en el símbolo `+` y, cuando se abra el desplegable, pinchar sobre **New Repository**
+
+3. Elegir el propietario del respoitorio. Puede ser nuestro usuario o un equipo del que formemos parte.
+
+4. Elegir un nombre y una descripción para el repositorio. Ambos tienen que ser descriptivos de lo que vamos a introducir en el repositorio.
+
+5. Elegir si queremos que el repositorio sea **público** o **privado** y también si queremos añadir un archivo `ReadMe`
+
+6. Pinchar en el botón **Create Repository**
+
 ## ¿Cómo subo cambios de un documento a GitHub?
 
 Para **subir al repositorio de GitHub** los cambios hechos en el ordenador hay que seguir los pasos siguientes:
