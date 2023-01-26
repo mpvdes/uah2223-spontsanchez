@@ -13,7 +13,7 @@ La **alfabetización sobre sistemas tecnológicos** plantea retos de investigaci
 
 ### Diagrama de la anatomía de un sistema de IA
 
-![Diagrama de un sistema de IA](https://theinfluencers.org/ "Diagrama de la anatomía de un sistema de IA")
+![Diagrama de un sistema de IA](https://designculture.com.br/wp-content/uploads/2019/11/Designs-of-Year_dezeen_hero-1704x958-1.jpg "Diagrama de la anatomía de un sistema de IA")
 
 El eje vertical es el eje de la abstracción de recursos y su elaboración. Todo el diagrama está organizado espacialmente de arriba a abajo. Hasta las personas que usan el dispositivo forman parte de la infraestructura. El usuario no solo lo está utilizando, sino que está contribuyendo a su crecimiento. Todas las interacciones se utilizan para hacer más complejo el modelo. Sin usuarios, este dispositivo no podría funcionar.
 
