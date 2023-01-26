@@ -9,7 +9,7 @@ Si hablamos de sistemas de datos, no solo estamos hablando de técnicas, sino ta
 
 La **alfabetización sobre sistemas tecnológicos** plantea retos de investigación y de representación. En primer lugar, hablar sobre la alfabetización de lo tecnológico requiere hablar de la abstracción.
 
-	- *El caso de Amazon Echo*: Los asistentes virtuales son dispositivos que necesitan una compleja infraestructura detrás de ellos. Son el final de un sistema que requiere una ramificación enorme en el espacio y en el tiempo. Amazon Echo es más que un objeto de consumo, es una parte de una infraestructura que plantea la necesidad de ramificar la noción de infraestructura misma, en el tiempo y en el espacio.
+- *El caso de Amazon Echo*: Los asistentes virtuales son dispositivos que necesitan una compleja infraestructura detrás de ellos. Son el final de un sistema que requiere una ramificación enorme en el espacio y en el tiempo. Amazon Echo es más que un objeto de consumo, es una parte de una infraestructura que plantea la necesidad de ramificar la noción de infraestructura misma, en el tiempo y en el espacio.
 
 ### Diagrama de la anatomía de un sistema de IA
 
@@ -21,22 +21,14 @@ El eje vertical es el eje de la abstracción de recursos y su elaboración. Todo
 La representación de Crawford es una anatomía de un sistema de AI, pero nos da una idea de cómo podríamos analizar las múltiples capas de un sistema planetario, que incluye datos, pero también incluye infraestructuras del trabajo, sociales, políticas, etc. La idea es que sea una caja de herramientas para inspirar nuevas técnicas y nuevos proyectos.
 
 **Observaciones de Bani Brusadin**:
-	1. Posicionamiento y tu propia posición. Hay que partir de algo, en este caso, Amazon Echo. La idea de cubrir todos los detalles de un sistema tan complejo como este, es casi imposible. Hay que olvidarse de ser exhaustivo. Todo representación implica inevitablemente un sesgo. La idea es que este sesgo sea explícita, de manera que se deje claro de entrada cómo se ha hecho el mapa.
-
-	2. Sencillez y ejes. Esas son dos dimensiones claras que hay que elegir, en función de las prioridades del diagrama. No necesariamente la verdad, sino el sesgo, que debe ser explícito.
-
-	3. Categorías y conexiones como afirmaciones. Hacer un diagrama es construir una arquitectura cnceptual.
-
-	4. Metáforas y alegorías puede ser útil para fortalecer conexiones. Los diagramas pueden acabar siendo muy complejo.
-
-	5. Los diagramas pueden acabar no entendiéndose. Hay que buscar caminos originales y propios puede dar lugar a confusión pero puede abrir a nuevos caminos o interpretaciones.
-
-	6. Los diagramas son historias.
-
-	7. Usae el arte para acercarse a la tecnopolítica.
-
-	8. Preciśión y exactitud. Los sistemas de datos están en constante proceso de actualización y no tiene sentido buscar la exactitud. En lugar de buscar la exactitud, hay que buscar modelos que permitan hacer un zoom para buscar más detalles abriendo capas.
-
+1. Posicionamiento y tu propia posición. Hay que partir de algo, en este caso, Amazon Echo. La idea de cubrir todos los detalles de un sistema tan complejo como este, es casi imposible. Hay que olvidarse de ser exhaustivo. Todo representación implica inevitablemente un sesgo. La idea es que este sesgo sea explícita, de manera que se deje claro de entrada cómo se ha hecho el mapa.
+2. Sencillez y ejes. Esas son dos dimensiones claras que hay que elegir, en función de las prioridades del diagrama. No necesariamente la verdad, sino el sesgo, que debe ser explícito.
+3. Categorías y conexiones como afirmaciones. Hacer un diagrama es construir una arquitectura cnceptual.
+4. Metáforas y alegorías puede ser útil para fortalecer conexiones. Los diagramas pueden acabar siendo muy complejo.
+5. Los diagramas pueden acabar no entendiéndose. Hay que buscar caminos originales y propios puede dar lugar a confusión pero puede abrir a nuevos caminos o interpretaciones.
+6. Los diagramas son historias.
+7. Usae el arte para acercarse a la tecnopolítica.
+8. Preciśión y exactitud. Los sistemas de datos están en constante proceso de actualización y no tiene sentido buscar la exactitud. En lugar de buscar la exactitud, hay que buscar modelos que permitan hacer un zoom para buscar más detalles abriendo capas.
 
 ## Lo forense y lo contraforense
 
@@ -45,9 +37,9 @@ Lo **contraforense**, como práctica de visualización de datos, se plantea como
 Ambos, lo forense y lo contraforense, presentan la posibilidad de acercarse a uan supuesta verdad a través de una operación de transparencia. Lo contraforense ve que lo forsense analiza la verdad con toda una serie de sesgos. Hay métodos del periodismo tradicional o métodos artísticos que siguen sirviendo para buscar la verdad. Métodos anómalos siguen siendo vigentes.
 
 Métodos prácticos para investigar una infraestructura:
-	- Ir a sitios, observar y hablar con la gente.
-	- Seguir el rastro del papeleo (contratos, cadenas de suministros, etc.)
-	- Fíjate en aquello que es interesante, como lo academia o otros enfoques alternativos.
+- Ir a sitios, observar y hablar con la gente.
+- Seguir el rastro del papeleo (contratos, cadenas de suministros, etc.)
+- Fíjate en aquello que es interesante, como lo academia o otros enfoques alternativos.
 
 ## Investigación "Forensic architecture"
 
@@ -55,10 +47,10 @@ Surge como un proyecto de investigación universitario, que se convierte en un [
 
 ## Conclusiones prácticas y metodológicas
 
-	1. Lo contraforense tiene que ocuparse de cuestiones de desigualdad estructural en cuanto al acceso a los datos y a la tecnologia de percepción. A las propias condiciones de percepción de lo que está ocurriendo.
-	2. Lo contraforense se basa en la idea pragmática de que se pueda acceder a una verdad de los hechos.
-	3. Lo contraforense se puede imaginar estrategias para sentir o percibir el espacio, la memoria de los lugares. Los grandes ejes para percibir el espacio: lo que es detectable, una memoria de la arquitectura y interrogar la memoria mediática.
-	4. Lo contraforense registra el tiempo, incluso los eventos que ocurren en un tiempo que está en el umbral de lo detectable, como una fracción de segundo.
+1. Lo contraforense tiene que ocuparse de cuestiones de desigualdad estructural en cuanto al acceso a los datos y a la tecnologia de percepción. A las propias condiciones de percepción de lo que está ocurriendo.
+2. Lo contraforense se basa en la idea pragmática de que se pueda acceder a una verdad de los hechos.
+3. Lo contraforense se puede imaginar estrategias para sentir o percibir el espacio, la memoria de los lugares. Los grandes ejes para percibir el espacio: lo que es detectable, una memoria de la arquitectura y interrogar la memoria mediática.
+4. Lo contraforense registra el tiempo, incluso los eventos que ocurren en un tiempo que está en el umbral de lo detectable, como una fracción de segundo.
 
 ## Cuestiones que se plantean de esta investigación
-	¿Por qué necesitamos una estética investigativa? (investigación vs crítica)
+¿Por qué necesitamos una estética investigativa? (investigación vs crítica)
