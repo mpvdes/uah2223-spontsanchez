@@ -1,0 +1,58 @@
+
+.row{
+    color: black;
+    background-color: blue;
+    border: 2px solid orange;
+    padding: 10px;
+    margin: 5px;
+}
+
+.columna{
+    background-color: blue;
+    border: 2px doted brown;
+    padding: 5px;
+    /* margin: 5px; */
+}
+
+.contenedor{
+    background-color: grey;
+    height: 400px;
+}
+.caja{
+    color: white;
+    background-color: green;
+    text-align: center;
+    line-height: 100px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.portada{
+    background-color:purple;
+    min-height:440px;
+}
+
+.imagen-portada{
+    width:150px;
+    height:150px;
+    margin:10px;
+    border-radius:30%;
+}
+
+.sobre-mi{
+    min-height:400px;
+    color:white;
+    background-color:black;
+    text-align:center;
+}
+
+.section-title{
+    font-size:35;
+    margin:100px;
+}
+
+.section-text{
+    font-size:2rem;
+}
