@@ -1,5 +1,28 @@
 # Pruebas terminal
 
+## Cygwin
+
+Para empezar a usar **la terminal** hay que instalar **Cygwin** u otra interfície de línea de comandos. En nuestro caso, hemos instalado Cygwin.
+
+### ¿Cómo se instala Cygwin?
+
+- Descargar el ejecutable en la [web de Cygwin](https://www.cygwin.com/). El enlace se llama **setup-x86_64.exe** y se encuentra en el apartado **Installing Cygwin**.
+
+- Durante la instalación tendremos que instalarnos los paquetes que vayamos a necesitar, en su versión más reciente. Para el máster de periodismo y visualización de datos, nos hemos instalado los siguientes paquetes y librerías:
+	- Curl
+	- Libcurl-devel
+	- Libcurl4
+	- Lynx
+	- Git
+	- Libgit2-devel
+	- Ruby
+	- Ca-certificates
+	- Ca-certificates-letsencrypt
+	- Wget
+	- Wget2
+	- Gcc-core
+	- Libgcc1
+
 ## Comandos terminal
 
 Algunos de los comandos básicos de la terminal son:
@@ -41,3 +64,9 @@ Podemos personalizar el texto de salida con los siguientes comandos:
  - `-r` alinea el texto a la derecha.
  - `-w` especifica un tamaño de salida.
  - `-k` habilita el kerning, creando cada letra de forma separada en vez de fundirse con las adyacentes.
+
+## ¿Cómo se actualiza la variable PATH?
+
+Para actualizar la variable `$PATH` hay que ejecutar la siguiente línea:
+
+`export` `PATH=**la ruta que necesitemos incluir en la variable PATH**:$PATH`

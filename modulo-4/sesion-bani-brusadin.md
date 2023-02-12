@@ -2,7 +2,7 @@
 
 **Bani Brusadín** es investigador, curador, docente y ha codirigido el festival ["The Influencers"](https://theinfluencers.org/). La sesión va a servir para ver cómo se trabaja con datos en otro tipo de proyectos no periodísticos. La charla va a aportar una perspectiva cultural y artística, desde el punto de vista de los datos, mediante la presentación de diversos proyectos.
 
-# Lo forense y lo contraforense: Un estudio del cuerpo tecnológico
+## Lo forense y lo contraforense: Un estudio del cuerpo tecnológico
 
 **Lo forense**: ¿De qué estan hechos los datos? ¿Y cómo pueden afectar y rediseñar la sociedad? ¿Cómo se construyen los datos? ¿Qué viene antes de que algo se convierta en datos?
 Si hablamos de sistemas de datos, no solo estamos hablando de técnicas, sino también estamos tocando un tema social y político. El análisis forense analiza un cuerpo o una situación y trata de descubrir cómo funciona o ha funcionado.

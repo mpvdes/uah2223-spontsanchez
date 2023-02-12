@@ -47,7 +47,7 @@ Para crear un perfil en GitHub hay que seguir los siguientes pasos:
 
 ## ¿Cómo subo cambios de un documento a GitHub?
 
-Para **subir al repositorio de GitHub** los cambios hechos en el ordenador hay que seguir los pasos siguientes:
+Para **subir al repositorio de GitHub** los cambios hechos en local hay que seguir los pasos siguientes:
 1. Guardar los cambios en el documento:
 	- En nano, pulsar **Control+X** para cerrar el documento
 	- Cuando nano nos pregunte si queremos guardar los cambios, pulsamos **Control+Y** y **Intro**
@@ -84,3 +84,13 @@ A continuación aparecerá el siguiente mensaje:
 	- Password for 'https://spontsanchez@github.com': (Pegamos el token que hemos copiado anteriorente y pulsamos la tecla Intro. Tampoco se verá en pantalla lo que hemos pegado)
 
 7. Cuando hayamos seguido estos pasos, vamos a nuestro repositorio de GitHub y comprobamos que el archivo se ha actualizado correctamente.
+
+## ¿Qué son las organizaciones en GitHub?
+
+Son cuentas compartidas en las que pueden colaborar muchos proyectos a la vez. Se pueden asignar roles a los usuarios que forman parte de una organización y, en función de estos roles asignados, podrán llevar a cabo unas funciones determinadas.
+Los cuatro niveles de permisos son:
+- Propietario
+- Miembro
+- Moderador
+- Gerente de facturación
+- Administrador de seguridad
