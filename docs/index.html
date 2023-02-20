@@ -5,6 +5,8 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Roboto&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
         <link rel="stylesheet" href="style.css" />
         <title>Mi proyecto de bootstrap</title>
@@ -20,13 +22,13 @@
                 <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">Home</a>
+                            <a class="nav-link active" aria-current="page" href="#">Mi página</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">About</a>
+                            <a class="nav-link" href="https://www.linkedin.com/in/sergi-pont-s%C3%A0nchez-92195461/">LinkedIn</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Contact</a>
+                            <a class="nav-link" href="https://twitter.com/Sergipont/">Twitter</a>
                         </li>
                     </ul>
                 </div>
@@ -35,41 +37,105 @@
 
         <!-- Portada de la web -->
 
-        <section class="d-flex flex-column align-items-center justify-content-center portada">
-            <img src="img-sergi.jpg" class="imagen-portada" alt="Foto de perfil de Sergi" />
-            <h1>Hola, soy Sergi</h1>
-            <h2>Esta es mi portada web</h2>
-            <p>en este proyecto aprenderemos a crear un proyecto con Bootstrap</p>
+        <section class="d-flex flex-column align-items-left justify-content-center portada">
+            <img style="border: 5px solid; color: grey;" src="img-sergi.jpg" class="imagen-portada" alt="Foto de perfil de Sergi"/>
+            <h1 class="titular-portada">Sergi Pont Sànchez</h1>
+            <h2 class="segundo-titular-portada">Periodista</h2>
         </section>
+
+        <!-- Sección trabajo -->
+
+        <div class="d-flex flex-column align-items-left justify-content-center">
+            <div class="row">
+                <div class="row-2">
+                    <h5>Periodista en la sección de política</h5>
+                    <p>Catalunya Ràdio</p>
+                    <p class="parrafo-laboral">Desde 2022</p>
+                </div>
+                <div class="row-2">
+                    <h5>Periodista en el web de noticias 324.cat</h5>
+                    <p>TV3</p>
+                    <p class="parrafo-laboral">2022</p>
+                </div>
+                <div class="row-2">
+                    <h5>Técnico de comunicación</h5>
+                    <p>Ajuntament de Sant Just Desvern</p>
+                    <p class="parrafo-laboral">2018-2022</p>
+                </div>
+                <div class="row-2">
+                    <h5>Locutor de radio</h5>
+                    <p>Ràdio Desvern</p>
+                    <p class="parrafo-laboral">2017-2018</p>
+                </div>
+                <div class="row-2">
+                    <h5>Traductor de videojuegos EN-ES</h5>
+                    <p>Gameloft</p>
+                    <p class="parrafo-laboral">2015-2016</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sección de CV -->
+        <!-- 
+             <div class="container d-flex justify-content-center contenedor">
+             <div class="caja flex-grow-1">
+             <h3>Formación</h3>
+             <br>
+             <br>
+             <p><b>Máster en Márqueting Digital</b> UOC <em>2020</em></p>
+             <p><b>Máster en Estudios de Traducción</b> UPF <em>2015</em></p>
+             <p><b>Licenciado en Periodismo</b> UAB <em>2012</em></p>
+             </div>
+             <div class="caja flex-grow">
+             <h3>Idiomas</h3>
+             <br>
+             <br>
+             <p><b>Catalán</b> Nivel C2</p>
+             <p><b>Español</b> Nativo</p>
+             <p><b>Inglés</b> Nivel C2</p>
+             <p><b>Francés</b> Nivel B1</p>
+             </div>
+             <div class="caja">
+             <h3>Otras competencias</h3>
+             <br>
+             <p>Gestión de redes sociales</p>
+             <p>Wordpress</p>
+             <p>Edición de vídeo y audio</p>
+             <p>Aprendiendo HTML</p>
+             <p></p>
+             </div>
+             </div> -->
+
+        <!-- Pruebas de Bootstrap -->
+        <div class="row">
+            <div class="col-sm-4 col-lg-6 columna">
+                <h3>Formación</h3>
+                <br>
+                <br>
+                <p><b>Máster en Márqueting Digital</b> UOC <em>2020</em></p>
+                <p><b>Máster en Estudios de Traducción</b> UPF <em>2015</em></p>
+                <p><b>Licenciado en Periodismo</b> UAB <em>2012</em></p>
+            </div>
+            <div class="col-sm-8 col-lg-6 columna">
+                <h3>Idiomas</h3>
+                <br>
+                <p><b>Catalán</b> Nivel C2</p>
+                <p><b>Español</b> Nativo</p>
+                <p><b>Inglés</b> Nivel C2</p>
+                <p><b>Francés</b> Nivel B1</p>
+            </div>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
         <!-- Sobre mí -->
         <section class="sobre-mi">
             <div class="container">
-                <h2 class="section-title">Conoce más sobre mí</h2>
-                <p class="section-text">Más cosas sobre el periodista Sergi Pont</p>
+                <h4 class="section-title">Contacta con Sergi Pont</h4>
+                <p class="section-text">Teléfono: 000 000 000</p>
                 <button type="button" class="btn btn-outline-primary btn-lg my-3">
                     <a href="mailto:pontsergi@gmail.com">
                         <i class="bi bi-envelope-at me-3"></i>Contacta conmigo
                 </button>
             </div>
         </section>
-
-        <!-- Pruebas de Bootstrap -->
-        <div class="row">
-            <div class="col-sm-4 col-lg-6 columna">columna 1</div>
-            <div class="col-sm-8 col-lg-6 columna">columna 2</div>
-        </div>
-        <div class="container-md">
-            <div class="row">
-                <div class="row">Columna container 1</div>
-                <div class="row">Columna container 2</div>
-                <div class="row">Columna container 3</div>
-            </div>
-        </div>
-        <div class="container d-flex justify-content-center contenedor">
-                <div class="caja flex-grow-1">caja 1</div>
-                <div class="caja">caja 2</div>
-                <div class="caja">caja 3</div>
-        </div>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
     </body>
 </html>

@@ -1,58 +1,90 @@
 
+.titular-portada{
+    color: white;
+    margin-right:25px;
+    text-align:right;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.segundo-titular-portada{
+    color: white;
+    margin-right:25px;
+    text-align:right;
+    font-family: 'Bebas Neue', cursive;
+}
+
 .row{
     color: black;
-    background-color: blue;
-    border: 2px solid orange;
+    background-color: #dae6e4;
+    padding:25px;
+}
+
+.row-2{
+    color: black;
+    background-color: #dae6e4;
     padding: 10px;
-    margin: 5px;
+    margin-left:30px;
+}
+
+.row-3{
+    color: black;
+    background-color: #dae6e4;
+    padding:15px;
+}
+
+.parrafo-laboral{
+    line-height:80%;
 }
 
 .columna{
-    background-color: blue;
-    border: 2px doted brown;
-    padding: 5px;
+    color: white;
+    background-color: #2b327a;
+    padding:5px;
+    font-family: 'Merriweather', serif;
     /* margin: 5px; */
 }
 
 .contenedor{
-    background-color: grey;
+    font-family: 'Merriweather', serif;
+    background-color: #dae6e4;
     height: 400px;
+    width: 1500px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 .caja{
-    color: white;
-    background-color: green;
-    text-align: center;
-    line-height: 100px;
-    width: 200px;
-    height: 200px;
-    border: 2px solid black;
-    margin: 10px;
+    color: black;
+    text-align: left;
+    line-height: 20px;
+    width: 250px;
+    height: 100px;
+    margin: 15px;
 }
 
 .portada{
-    background-color:purple;
-    min-height:440px;
+    background-color: #3b468c;
+    min-height:300px;
 }
 
 .imagen-portada{
     width:150px;
     height:150px;
-    margin:10px;
-    border-radius:30%;
+    margin:20px;
+    border-radius:50%;
 }
 
 .sobre-mi{
-    min-height:400px;
+    min-height:180px;
     color:white;
     background-color:black;
     text-align:center;
 }
 
 .section-title{
-    font-size:35;
-    margin:100px;
+    font-size:30;
+    text-align:center;
 }
 
 .section-text{
-    font-size:2rem;
+    font-size:23;
 }
