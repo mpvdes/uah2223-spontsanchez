@@ -1,0 +1,15 @@
+# Hassel Fallas – periodista de datos
+
+El periodismo de datos puede proporcionar oportunidades laborales, también fuera del periodismo. El proyecto sobre feminicidios le permitió saber que los datos se trataban de una manera muy primaria. Las herramientas que se utilizan deben estar supeditadas a las técnicas y a las necesidades del proyecto.
+Diseño un programa para automatizar la publicación de sentencias judiciales y facilitar el acceso. Durante la pandemia creo una web para publicar gráficos y datos sobre el Covid, lo que la llevó a crear “La Data Cuenta”. Una web de periodismo de datos sobre cambio climático, género y migraciones.
+Cuando usan bases de datos sobre cambio climático:
+
+-	Comprueban si los datasets incluyen metadatos y explicación metodológico sobre cómo se aplican las metodologías, proyecciones y se obtienen los datos.
+-	Verificar si los datos son parte de algún estudio académico o otras fuentes fiables.
+-	Saber si los datos ya han sido utilizados por medios que tienen un sistema sólido de fact-checking.
+-	Las ONG también crean bases de datos. Hay que averiguar cuáles son los intereses y las metodologías de estas organizaciones.
+-	El web Carbon Brief ofrece una base de datos de académicos y expertos para saber si son fiables.
+
+Herramientas que usa para visualización:
+-	Algunos gráficos los hace exclusivamente con R, que permite reutilizar y readaptar el código. Hay muchos tutoriales en internet y una comunidad muy amplia que ayuda a resolver problemas.
+-	También usa Canva.
